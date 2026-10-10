@@ -227,7 +227,7 @@ def generar_graficos_variable(df, columna, df_tabla, metricas_agr, metricas_no_a
     ax_box.set_xticklabels([nombre_etiqueta], fontsize=9)
     ax_box.grid(axis="y", linestyle=":", alpha=0.6)
 
-    # Guardar en archivo PNG de alta resolucion
+    # Guardar en archivo PNG 
     plt.tight_layout()
     plt.savefig(ruta_salida, dpi=300)
     plt.close()

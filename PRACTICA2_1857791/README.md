@@ -20,7 +20,7 @@ Se detectaron dos clases de registros inconsistentes que sumaban un total de 6 f
 Para asegurar una base de datos solida y sin distorsiones estadisticas, se ejecutaron las siguientes acciones correctivas:
 
 1. Eliminacion de registros corruptos:
-Se eliminaron definitivamente las filas 3618 y 4170. Mantener una duracion de 0 ms habria distorsionado artificialmente el limite inferior de la primera clase de Sturges, el rango total de duracion y las medidas de dispersion.
+Se eliminaron las filas 3618 y 4170.
 
 2. Eliminacion de registros sin artista:
 Se descartaron las filas 436, 1396, 3885 y 3886 para asegurar la integridad referencial estricta requerida por el esquema relacional en Tercera Forma Normal (3NF).
@@ -29,11 +29,6 @@ Se descartaron las filas 436, 1396, 3885 y 3886 para asegurar la integridad refe
 Se aplico un formateo con recorte de espacios en blanco (strip) a todas las columnas categoricas y de texto.
 
 ## Modelado Entidad-Relacion y Diseno: 
-
-
-El archivo original presentaba una estructura desnormalizada donde convivian atributos de canciones, albumes y artistas en una sola fila. En particular, la columna artist_genres contenia listas de generos en una sola celda, violando la Primera Forma Normal (1NF). Asimismo, los datos repetidos de albumes y artistas violaban la Segunda Forma Normal (2NF) por dependencias funcionales parciales.
-
-Para alcanzar la Tercera Forma Normal (3NF), el conjunto de datos se deconstruye en cinco entidades:
 
 1. Entidad TRACK (Pista o Cancion):
 Representa la unidad de grabacion de audio.
@@ -231,9 +226,7 @@ Formula: Mo = 66.6667 + [119 / (119 + 300)] * 6.6667 = 68.5601 pts
 - Desviacion estandar agrupada: s = 23.6730 pts
 - Coeficiente de variacion agrupado: CV = 44.99%
 
-
-
-### Comparacion Cuantitativa: Datos Agrupados vs. No Agrupados
+### Comparacion Cuantitativa
 
 | Parametro Estadistico | Variable: Duracion (ms) | | | Variable: Popularidad (pts) | | |
 |---|---|---|---|---|---|---|
