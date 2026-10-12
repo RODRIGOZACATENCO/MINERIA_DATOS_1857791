@@ -435,7 +435,6 @@ track_id,track_name,track_number,track_popularity,track_duration_ms,explicit,art
 4MDpkzAyG2X0dmtOU0ZESX,Lolita,14,58,220040,False,Lana Del Rey,88.0,51773650.0,[],5VoeRuTrGhTbKelUfwymwu,Born To Die - The Paradise Edition,2012-01-01,23,album
 44XjoNvtwevktFKjvVe1vH,Andrea,19,77,339611,True,Bad Bunny,95.0,102500980.0,"['reggaeton', 'trap latino', 'urbano latino', 'latin']",3RQQmkQEvNCY4prGKE6oc5,Un Verano Sin Ti,2022-05-06,23,album
 37tICyAkABqkM4N3w2yrJk,Escape 700,2,25,316146,False,The Chemical Brothers,61.0,2246231.0,"['big beat', 'alternative dance', 'electronic', 'breakbeat']",6c9QsrjjmWTjOgS6OqrQDY,Hanna,2011-06-10,20,album
-3QhfFRPkhPCR1RMJWV1gde,Radio,8,65,214586,True,,,,,0Dt3FbpMQwjoT5KNAw0IXR,Born To Die – Paradise Edition (Special Version),2012-01-01,24,album
 6K8VQ84MqhsoakN5MjrnVR,Supercut,9,78,277506,False,Lorde,80.0,10539134.0,[],2B87zXm9bOWvAJdkJBTpzF,Melodrama,2017-06-16,11,album
 2qGfZAgDe1pV2y5xJAhi6R,Slime Belief,2,67,192606,True,YoungBoy Never Broke Again,84.0,14936207.0,[],3o5se5blwiAdJPk8yAw1EQ,Realer,2018-12-20,12,album
 6TGd66r0nlPaYm3KIoI7ET,THE GREATEST,6,81,293840,False,Billie Eilish,90.0,118692183.0,[],7aJuG4TFXa2hmE4z1yxc3n,HIT ME HARD AND SOFT,2024-05-17,10,album
@@ -1395,7 +1394,6 @@ track_id,track_name,track_number,track_popularity,track_duration_ms,explicit,art
 3ojTJaonfkL96iIWa47SU3,Questions,4,64,129477,False,Chris Brown,87.0,28305692.0,['r&b'],3zak0kNLcOY5vFcB3Ipskp,Heartbreak on a Full Moon,2017-10-31,45,album
 4wLjdZD9khhahbzhb3RxtJ,School - 1992/Live at Reading,4,35,163280,False,Nirvana,81.0,23384088.0,"['grunge', 'rock']",01Z1nufhjxJVXVDuMRmNEM,Live at Reading,2009-01-01,24,album
 1mLkmVH9jcPZ7lr5D3i7Sb,Unholy (feat. Kim Petras) - Live From The Royal Albert Hall,9,29,239000,False,Sam Smith,81.0,26272346.0,['soft pop'],5BNUgsVK7qqfFnV046qHfW,Gloria (Special Edition),2023-04-12,22,album
-2NbsBSshscKIPRG3kwBbfo,Never Felt So Alone,1,68,160166,False,,,,,33JqWTchq6piiQddrRIvJX,Never Felt So Alone,2023-04-07,1,single
 76UgN1xUxb4dfPCVX20U0n,Crown,12,32,174923,False,Unlike Pluto,57.0,398642.0,[],4EeqIKMCBghfKdAXVgsQBt,Kiss Collapse,2025-08-22,17,album
 0uI7yAKUf52Cn7y3sYyjiX,3 Nights,1,73,177666,False,Dominic Fike,74.0,2222327.0,[],05jbNkYoEQdjVDHEHtg1gY,"Don't Forget About Me, Demos",2018-10-16,8,album
 4IqcDJPzDL8Hq8KwAX4jUE,human,4,64,250706,False,Christina Perri,71.0,4307803.0,['soft pop'],5JBSxkc72B8RhwhUvffc65,head or heart,2014-03-28,13,album
@@ -3617,7 +3615,6 @@ track_id,track_name,track_number,track_popularity,track_duration_ms,explicit,art
 5tf1VVWniHgryyumXyJM7w,Sugar (feat. Francesco Yates),2,79,219043,False,Robin Schulz,75.0,3275657.0,['tropical house'],5XyJzEROSmup2TcWmVjTIt,Sugar,2015-09-25,15,album
 5nWbbQ0sIEabqPxAdqmh66,Sweet Disposition,8,45,234680,False,The Temper Trap,69.0,772924.0,[],2n5AOB0lGse7qp38HvVROB,(500) Days of Summer (Music from the Motion Picture),2009-07-10,16,compilation
 5G0oVoL309pqsvGDzhMOwx,Diamond Veins,4,16,240120,False,French 79,55.0,257992.0,['french house'],6rkKOTP3oBns0nR6mfHOsH,Olympic,2016-10-21,12,album
-37ns6v0HK4zMV1PpRLIsbx,,1,0,0,False,Various Artists,0.0,2777475.0,[],6ZANj7FHgq4Lozaq67DUaW,,0000,1,single
 1musbempyJAw5gfSKZHXP9,Anxiety,1,79,249302,True,Doechii,76.0,3227707.0,[],706mYHElAsR2MfcehZt2PA,Anxiety,2025-03-05,2,single
 1z9JX28wuVnQ0KDN1jdDVP,Unicorn's Rest,13,44,119693,False,Bill Brown,41.0,9779.0,['medieval'],04wngi30Qap95fjcdn7SbC,Chaotic Chronicle (Lineage2 Original Soundtrack),2011-08-11,24,album
 1CfuBY3BDdKpooQ9L5zgUc,Cigarettes,3,69,227527,True,Juice WRLD,85.0,42528657.0,"['melodic rap', 'emo rap']",1typPCwqyXMfFpvDZAyKew,Fighting Demons (Deluxe),2022-03-18,23,album
@@ -3884,8 +3881,6 @@ track_id,track_name,track_number,track_popularity,track_duration_ms,explicit,art
 26MJjeJ0NSOQDKeZzrEFMl,hate to be lame,11,66,156798,False,Lizzy McAlpine,74.0,1544658.0,[],68L5xVV9wydotfDXEik7eD,five seconds flat,2022-04-08,14,album
 6FWWWKLHXqLOfvXsWN9mrU,Lost,1,20,183160,False,TOMMYANDMARY,8.0,1117.0,[],1aTvKhofWin4mYVSTj38PI,Lost,2017-11-23,1,single
 45DuBzsgfiterhMTTsewpH,Love Pledge and the Arena,12,46,510186,False,John Williams,70.0,1604690.0,['soundtrack'],4RSVY5851aNeCttrDpdj7A,Star Wars: Attack of the Clones (Original Motion Picture Soundtrack),2002-04-23,13,album
-5EhZC8GFOVXrpiUW22jncE,Urban Twilight,4,30,255634,False,,,,,1Cog6aZ6NwnJiuINc0LQEU,Darkbloom,2011-04-18,5,single
-0fM9dEhUFV4MHDuJgrcfOv,How You Get The Girl,10,59,247533,False,,,,,1yGbNOtRIgdIiGHOEBaZWf,1989 (Deluxe),2014-01-01,19,album
 1XkRprkVY9ntVC7KzHrlaZ,The Book of Boba Fett,17,48,175699,False,Ludwig Göransson,64.0,425177.0,['soundtrack'],36qgdmFn1KjBOSG55PB1Ju,The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack],2022-01-21,17,album
 1E1TRiAhjfJNuj12UOE2K1,"Boys, Be Courageous!",14,0,71133,False,Yoshihisa Hirano,50.0,62821.0,"['anime', 'soundtrack']",2Dw87Ob66XprXiHKbhifJB,TVアニメ「HUNTER×HUNTER」オリジナル・サウンドトラック,2012-01-25,37,album
 3ES6cLKSNuWCZgL0X7BHSv,Colors,1,54,126666,False,Elvis Drew,55.0,68438.0,['dark r&b'],2XK3ZZKQOJnOwEYYN3ODEC,Colors,2021-01-08,1,single
@@ -4169,7 +4164,6 @@ track_id,track_name,track_number,track_popularity,track_duration_ms,explicit,art
 6FELTNTUaN7jLlbAOCnNKF,PAPARAZZI,7,46,226973,False,Girls' Generation,62.0,2833512.0,['k-pop'],1xf4URVJ3DRX2uumI916w6,THE BEST,2014-07-22,16,compilation
 6J2LdBN97cDWn0MLxYh9HB,July,6,79,156106,False,Noah Cyrus,72.0,2069532.0,[],5Gn3fFzlWL89j0hGumtXb5,THE END OF EVERYTHING,2020-05-15,8,album
 4y5Rc93eja2ysUeGlDNQeM,Western Canyon,7,31,156411,False,Gary O'Slide,30.0,5450.0,['southern gothic'],3vkG8xqDkFwvvyKXLORvJQ,Wide Open Space,2019-03-07,14,album
-6N21iOdTYgYjDK1AyS0iUW,,2,0,0,True,Various Artists,0.0,2777927.0,[],49p6Te0TtN1Ew5qP5GIEQB,,0000,2,single
 1ijrMIqQvZNsnoqGukPzFD,I'm Forrest... Forrest Gump,1,58,159666,False,Alan Silvestri,57.0,327242.0,['soundtrack'],1Fw951OcmbeCmVnnNcRYrp,Forrest Gump - Original Motion Picture Score,1994-08-02,21,album
 5SShKhLCYFydCsO4L7ULMr,lacy,4,61,177212,False,Olivia Rodrigo,85.0,49067177.0,[],1D06fz3cuob62ysTS8k6gu,GUTS (spilled),2024-03-22,17,album
 0kzw2tRyuL9rzipi5ntlIy,Shut Up and Dance,3,60,199080,False,WALK THE MOON,65.0,2239954.0,[],2bVVESepVYULITlO6mtmoy,TALKING IS HARD (Expanded Edition),2014-12-02,15,album
