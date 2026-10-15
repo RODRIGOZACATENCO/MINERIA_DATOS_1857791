@@ -42,9 +42,9 @@ El proceso de modelado se realizo bajo los siguientes criterios metodologicos:
 | k = 31 | 0.7744 (77.44%) | 0.5910 | 0.6479 (64.79%) | 0.2100 (21.00%) | 0.3172 |
 
 Analisis de las variaciones probadas:
-- Con K muy pequeno (k = 3 o k = 5): El modelo es muy sensible al ruido local y a canciones con caracteristicas atipicas. Aunque detecta un poco mas de canciones explicitas, comete demasiados errores: la precision en explicit cae por debajo del 50% en k=3 (mas de la mitad de las canciones que predice como explicitas son en realidad limpias) y la exactitud general baja a 74.76%.
-- Con K muy grande (k = 31): Como el dataset esta desbalanceado (75% canciones limpias y 25% explicitas), una vecindad grande hace que las canciones limpias acaparen casi todas las votaciones por pura mayoria numerica. Esto provoca que el modelo casi no detecte pistas explicitas: el recall se desploma al 21.00% (se escapan 8 de cada 10 canciones explicitas reales) y el Macro F1 cae a 0.5910.
-- Por que se eligio k = 15: Representa el punto de equilibrio optimo entre estabilidad y capacidad predictiva. La exactitud global se consolida en 76.81%, la precision para canciones explicitas sube a casi el 58% (reduciendo falsos positivos) sin colapsar por completo la deteccion como ocurre en k=31. Ademas, al ser un valor impar, garantiza decisiones sin empates directos.
+- Con K muy pequeno (k = 3 o k = 5): El modelo es muy sensible al ruido local y a canciones con caracteristicas atipicas. Aunque detecta un poco mas de canciones explicitas, comete demasiados errores, ya que la precision en explicit cae por debajo del 50% en k=3 y la exactitud general baja a 74.76%.
+- Con K muy grande (k = 31): Como el dataset esta desbalanceado (75% canciones limpias y 25% explicitas), una vecindad grande hace que las canciones limpias acaparen casi todas las votaciones por pura mayoria numerica. Esto provoca que el modelo casi no detecte pistas explicitas: el recall baja a 21.00% y el Macro F1 cae a 0.5910.
+- Por que se eligio k = 15: Representa el mejor balance entre los ejemmplos anteriores. La exactitud global se consolida en 76.81%, la precision para canciones explicitas sube a casi el 58%.
 
 
 ## 4. Resultados del modelo baseline
